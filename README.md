@@ -1,7 +1,6 @@
 # Verzögerung und Hopf-Grenze – Streamlit-Demo
 
-<!-- TODO nach dem Deploy: direkt hierher den Live-Link setzen (Leerzeile davor und danach):
-**[→ Demo live ausprobieren](https://sebastianhanisch-verzoegerung-hopf-demo.streamlit.app/)** -->
+**[→ Demo live ausprobieren](https://sebastianhanisch-verzoegerung-hopf-demo.streamlit.app/)**
 
 Teil der Linie **Dynamische Systeme** in der „Konzepte“-Reihe für die Website „Sebastian Hanisch – Operations Research und Machine Learning“: stetige Zeit mit Verzögerung. Die Demo zeigt, was eine Verzögerung allein leistet, und wie viel davon erst der Rechner (der Zeitschritt) erzeugt. Dazu kommt das Lorenz-System als zweite Art, in stetiger Zeit chaotisch zu werden. Verwandt sind [Logistische Abbildung](https://github.com/sebastian-hanisch/logistische-abbildung-demo) (Verlust der Stabilität eines Fixpunkts in Schritten), [Chaos messen](https://github.com/sebastian-hanisch/lyapunov-chaos-demo) (Lyapunov-Exponent einer Abbildung), [Schrittweite als Dynamik](https://github.com/sebastian-hanisch/schrittweite-dynamik-demo) und [Chaos im Lager](https://github.com/sebastian-hanisch/lager-chaos-demo) (Verzögerung plus Klemmung).
 
